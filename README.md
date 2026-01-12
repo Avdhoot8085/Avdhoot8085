@@ -87,7 +87,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/Avdhoot8085
-- LinkedIn: # 👋 Hi, I'm Arya Kadam
+- LinkedIn: # 👋 Hi, I'm Avdhoot Lad
 
 🚀 Cloud & DevOps Enthusiast | AWS | Linux | Web Developer  
 
