@@ -86,7 +86,7 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/aryakonly
+- GitHub: https://github.com/Avdhoot8085
 - LinkedIn: https://www.linkedin.com/in/avdhoot-lad-5950b8300/
 - Email: avdhootlad4782@gmail.com
 
